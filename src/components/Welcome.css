@@ -1,0 +1,48 @@
+.welcome--container {
+  width: 80%;
+  margin: 100px auto;
+  color: var(--white);
+  background-color: transparent;
+}
+
+.welcome--greeting {
+  font-size: 21px;
+  line-height: 27px;
+}
+
+.welcome--container h3 {
+  font-size: 35px;
+  line-height: 42px;
+  margin-block: 15px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.welcome--content {
+  max-width: 600px;
+  font-size: 19px;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.welcome--link-container {
+  margin: 50px 0 0 10px;
+  padding-block: 50px;
+}
+
+.welcome--link {
+  text-decoration-color: var(--grey);
+  text-decoration-thickness: 2px;
+  color: var(--white);
+  padding: 15px 34px;
+  border-radius: 28px;
+  border: 1px solid var(--white);
+  transition: all 0.3s ease;
+}
+
+.welcome--link:hover {
+  background: var(--white);
+  color: var(--dark);
+  text-decoration: none;
+}

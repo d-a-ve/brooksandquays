@@ -1,0 +1,8 @@
+{
+  "short_name": "Brooks and Quays",
+  "name": "Brooks and Quays Website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

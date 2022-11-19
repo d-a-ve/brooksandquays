@@ -1,0 +1,29 @@
+.section {
+  background-image: url("../assets/images/header-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-block: 100px;
+}
+
+.hero--recruitment {
+  background-color: var(--white);
+  padding: 120px 30px 150px;
+  border-radius: 50%;
+  max-width: 450px;
+  margin: 0 auto 150px;
+}
+
+.hero--recruitment h1 {
+  color: var(--blue);
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 48px;
+}
+
+.hero--recruitment p {
+  color: var(--grey);
+  font-weight: 600;
+  text-align: center;
+  line-height: 29px;
+  font-size: 20px;
+}
